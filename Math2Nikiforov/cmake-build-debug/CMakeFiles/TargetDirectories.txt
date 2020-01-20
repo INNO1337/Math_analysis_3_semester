@@ -1,0 +1,3 @@
+/cygdrive/c/Users/ficus/Desktop/Math2Nikiforov/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/ficus/Desktop/Math2Nikiforov/cmake-build-debug/CMakeFiles/Math2Nikiforov.dir
+/cygdrive/c/Users/ficus/Desktop/Math2Nikiforov/cmake-build-debug/CMakeFiles/edit_cache.dir

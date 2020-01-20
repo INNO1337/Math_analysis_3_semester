@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/ficus/Desktop/Math2Nikiforov/main.cpp
+iostream
+-
+vector
+-
+memory
+-
+cmath
+-
+iomanip
+-
+

@@ -1,0 +1,1 @@
+C:/cygwin64/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Math2Nikiforov.dir/main.cpp.o  -o Math2Nikiforov.exe -Wl,--out-implib,libMath2Nikiforov.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
